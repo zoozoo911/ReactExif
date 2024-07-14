@@ -1,1 +1,1 @@
-#React Library for viewing EXIF data from files
+# React Library for viewing EXIF data from files
